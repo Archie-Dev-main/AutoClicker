@@ -1,4 +1,7 @@
 # AutoClicker
+-----
+Written in Python 3.9, unknown to work in previous Python versions, known to work in python 3.10.0.
+-----
 
 This is the guide for the AutoClicker program. It is designed to allow you to to send the mouse to a user specified location and automatically click for a user specified length of time with a user specified click and a user specified length between clicks.
 
