@@ -35,7 +35,7 @@ Send & Start Clicking:
 Emergency quit:
     Should you need to quit, at anytime press both Shift and Escape at the same time and the program should shutdown immediately.
 
-Keybindings:
+Keybindings(Window must be focused to work):
 
 Left Control: Sets the Desired Position to the Current Mouse Position.
 Escape: Stops the clicker during execution.
